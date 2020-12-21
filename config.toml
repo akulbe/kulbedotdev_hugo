@@ -1,0 +1,19 @@
+baseURL = "http://kulbe.dev"
+languageCode = "en-us"
+title = "kulbe dot dev"
+copyright = "Copyright &copy; 2020 - Aaron Kulbe"
+canonifyurls = true
+theme = "kiera"
+
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+    name = "aaron kulbe"
+    github = "akulbe"
+    linkedin = "akulbe"
+    twitter = "akulbe"
+    stackoverflow = "akulbe"
+    devto = "akulbe"
+    #facebook = "username"
+    #youtube = "user/username" # or channel/channelname
