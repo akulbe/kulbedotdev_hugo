@@ -1,0 +1,15 @@
+
+   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+       <title>Categories on kulbe dot dev</title>
+       <link>http://kulbe.dev/categories/</link>
+       <description>Recent content in Categories on kulbe dot dev</description>
+       <generator>Hugo -- gohugo.io</generator>
+       <language>en-us</language>
+       <copyright>Copyright &amp;copy; 2020 - Aaron Kulbe</copyright>
+       
+           <atom:link href="http://kulbe.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+       
+       
+     </channel>
+   </rss>

@@ -1,0 +1,24 @@
+
+   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+       <title>kulbe dot dev</title>
+       <link>http://kulbe.dev/</link>
+       <description>Recent content on kulbe dot dev</description>
+       <generator>Hugo -- gohugo.io</generator>
+       <language>en-us</language>
+       <copyright>Copyright &amp;copy; 2020 - Aaron Kulbe</copyright>
+       
+           <atom:link href="http://kulbe.dev/index.xml" rel="self" type="application/rss+xml" />
+       
+       
+       <item>
+         <title>i are kulbe</title>
+         <link>http://kulbe.dev/</link>
+         <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+         
+         <guid>http://kulbe.dev/</guid>
+         <description></description>
+       </item>
+       
+     </channel>
+   </rss>
