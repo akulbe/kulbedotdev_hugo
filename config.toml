@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "kulbe dot dev"
 copyright = "Copyright &copy; 2020 - Aaron Kulbe"
 canonifyurls = true
-theme = "hugo-kiera"
+theme = "kiera"
 
 enableEmoji = true
 pygmentsCodeFences = true
